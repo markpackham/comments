@@ -7,6 +7,7 @@ export default class CommentList extends Component{
             <div className="comment-list">
                 <Comment author="Zsolt">Give me a zsolt hand!</Comment>
                 <Comment author="Colin">How about no.</Comment>
+                <Comment author="Me">PHP is magic!</Comment>
             </div>
         )
 
